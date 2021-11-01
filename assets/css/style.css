@@ -51,7 +51,7 @@ ul, ol {
 /*******************/
 
 /* style anchors as plain white text */
-a {
+li > a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -175,7 +175,7 @@ p {
 }
 
 .bio-link:hover {
-  text-decoration: underline;
+  color: #EE6C4D;
 }
 
 .hidden-link {
