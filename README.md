@@ -37,11 +37,11 @@ My LinkedIn profile page was updated to describe myself as a full stack develope
 
 _Direction for future development: I'd like to update my LinkedIn profile to better integrate my linguistics and coding skill sets_
 
-## Deployment
+## Deployed Page
 
-### Portfolio Link
-The deployed profile page can be found here:
+### Link
+The deployed portfolio page can be found here:
 https://j1741.github.io/professional_materials/
 
-## Portfolio Screenshot
+### Screenshot
 The following screenshot shows the updated portfolio page:
