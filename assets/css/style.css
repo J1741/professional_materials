@@ -169,6 +169,15 @@ p {
     width: 100%; 
 }
 
+.bio-link {
+  color: #3D5A80; 
+  font-weight: bolder;
+}
+
+.bio-link:hover {
+  text-decoration: underline;
+}
+
 /**************************/
 /*** 5.1 Main: About Me ***/
 /**************************/
