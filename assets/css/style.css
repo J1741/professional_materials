@@ -51,7 +51,7 @@ ul, ol {
 /*******************/
 
 /* style anchors as plain white text */
-li > a {
+li a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -106,7 +106,7 @@ p {
 
 /* make nav links light blue on hover */
 .header ul li a:hover {
-    color: #E0FBFC;
+    color: #EE6C4D;
 }
 
 /******************/
@@ -172,6 +172,7 @@ p {
 .bio-link {
   color: #3D5A80; 
   font-weight: bolder;
+  text-decoration: none;
 }
 
 .bio-link:hover {
@@ -180,6 +181,7 @@ p {
 
 .hidden-link {
   color: #293241;
+  text-decoration: none;
 }
 
 .hidden-link:hover {
@@ -273,6 +275,8 @@ p {
 
 .small-text {
   font: small-caption;
+  color: white;
+  text-decoration: none;
 }
 
 /****************************/
@@ -305,6 +309,10 @@ p {
 /* set footer anchor tags to dark blue */
 .footer ul li a {
     color: #3D5A80;
+}
+
+.footer ul li a:hover {
+  color: #EE6C4D;
 }
 
 /**********************/
