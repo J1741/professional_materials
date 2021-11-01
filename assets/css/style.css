@@ -178,6 +178,14 @@ p {
   text-decoration: underline;
 }
 
+.hidden-link {
+  color: #293241;
+}
+
+.hidden-link:hover {
+  color: #EE6C4D;
+}
+
 /**************************/
 /*** 5.1 Main: About Me ***/
 /**************************/
