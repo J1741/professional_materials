@@ -45,3 +45,4 @@ https://j1741.github.io/professional_materials/
 
 ### Screenshot
 The following screenshot shows the updated portfolio page:
+![Alt text](./screenshot.png?raw=true "Screenshot of updated portfolio page")
